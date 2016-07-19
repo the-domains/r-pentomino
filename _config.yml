@@ -6,9 +6,9 @@ color:
   saturation: 0.9306472616735846
   rhythmicContrast: 0.4798961381893605
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 name: r-Pentomino
