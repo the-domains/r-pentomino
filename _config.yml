@@ -17,3 +17,8 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7de786c-8e62-42f0-b017-8986c190ce24.png
 name: r-Pentomino
+navigation:
+  - id: effaf7bb-b031-490b-8662-5ece2201e609
+    url: 2016-07-20-impressum.html
+    name: Impressum
+    type: content
